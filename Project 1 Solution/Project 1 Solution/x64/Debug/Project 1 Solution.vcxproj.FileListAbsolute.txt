@@ -1,0 +1,2 @@
+D:\source\Solutions2 1 to 50\Project 1 Solution\x64\Debug\Project 1 Solution.exe.lastcodeanalysissucceeded
+D:\source\Solutions2 1 to 50\Project 1 Solution\Project 1 Solution\x64\Debug\NativeCodeAnalysis.read.1.tlog

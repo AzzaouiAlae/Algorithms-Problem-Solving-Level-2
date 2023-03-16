@@ -1,0 +1,4 @@
+﻿  Problem 50 MySqrt.cpp
+D:\source\Solutions2 1 to 50\Problem 50 MySqrt\Problem 50 MySqrt\Problem 50 MySqrt.cpp(20,45): warning C4305: '+=' : troncation de 'double' à 'float'
+D:\source\Solutions2 1 to 50\Problem 50 MySqrt\Problem 50 MySqrt\Problem 50 MySqrt.cpp(25): warning C4715: 'MySqrt' : les chemins de contrôle ne retournent pas tous une valeur
+  Problem 50 MySqrt.vcxproj -> D:\source\Solutions2 1 to 50\Problem 50 MySqrt\x64\Debug\Problem 50 MySqrt.exe

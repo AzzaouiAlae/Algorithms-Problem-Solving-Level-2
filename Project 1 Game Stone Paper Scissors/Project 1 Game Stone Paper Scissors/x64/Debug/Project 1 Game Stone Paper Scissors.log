@@ -1,0 +1,4 @@
+﻿  Project 1 Game Stone Paper Scissors.cpp
+D:\source\Solutions2 1 to 50\Project 1 Game Stone Paper Scissors\Project 1 Game Stone Paper Scissors\Project 1 Game Stone Paper Scissors.cpp(48): warning C4715: 'Choice' : les chemins de contrôle ne retournent pas tous une valeur
+D:\source\Solutions2 1 to 50\Project 1 Game Stone Paper Scissors\Project 1 Game Stone Paper Scissors\Project 1 Game Stone Paper Scissors.cpp(106): warning C4715: 'Result' : les chemins de contrôle ne retournent pas tous une valeur
+  Project 1 Game Stone Paper Scissors.vcxproj -> D:\source\Solutions2 1 to 50\Project 1 Game Stone Paper Scissors\x64\Debug\Project 1 Game Stone Paper Scissors.exe

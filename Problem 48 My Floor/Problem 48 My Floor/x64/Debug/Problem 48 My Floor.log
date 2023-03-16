@@ -1,0 +1,6 @@
+﻿  Problem 48 My Floor.cpp
+D:\source\Solutions2 1 to 50\Problem 48 My Floor\Problem 48 My Floor\Problem 48 My Floor.cpp(21,16): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 48 My Floor\Problem 48 My Floor\Problem 48 My Floor.cpp(25,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 48 My Floor\Problem 48 My Floor\Problem 48 My Floor.cpp(28,27): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 48 My Floor\Problem 48 My Floor\Problem 48 My Floor.cpp(30,20): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Problem 48 My Floor.vcxproj -> D:\source\Solutions2 1 to 50\Problem 48 My Floor\x64\Debug\Problem 48 My Floor.exe

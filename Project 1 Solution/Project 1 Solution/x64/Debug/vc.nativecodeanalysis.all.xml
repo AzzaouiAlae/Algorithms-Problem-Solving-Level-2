@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\source\Solutions2 1 to 50\Project 1 Solution\Project 1 Solution\</FILEPATH>
+      <FILENAME>Project 1 Solution.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable 'stGameResult::Winner' n'est pas initialisée. Initialisez toujours une variable membre (type.6).</DESCRIPTION>
+    <FUNCTION>stGameResult::{ctor}</FUNCTION>
+    <DECORATED>??0stGameResult@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>stGameResult::Winner</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\source\Solutions2 1 to 50\Project 1 Solution\Project 1 Solution\</FILEPATH>
+      <FILENAME>Project 1 Solution.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable 'stRoudInfo::Winner' n'est pas initialisée. Initialisez toujours une variable membre (type.6).</DESCRIPTION>
+    <FUNCTION>stRoudInfo::{ctor}</FUNCTION>
+    <DECORATED>??0stRoudInfo@@QEAA@XZ</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>stRoudInfo::Winner</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

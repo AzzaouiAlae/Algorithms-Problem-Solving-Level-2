@@ -1,0 +1,8 @@
+﻿  Problem 47 MyRound.cpp
+D:\source\Solutions2 1 to 50\Problem 47 MyRound\Problem 47 MyRound\Problem 47 MyRound.cpp(17,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 47 MyRound\Problem 47 MyRound\Problem 47 MyRound.cpp(19,27): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 47 MyRound\Problem 47 MyRound\Problem 47 MyRound.cpp(21,20): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 47 MyRound\Problem 47 MyRound\Problem 47 MyRound.cpp(25,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 47 MyRound\Problem 47 MyRound\Problem 47 MyRound.cpp(27,27): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+D:\source\Solutions2 1 to 50\Problem 47 MyRound\Problem 47 MyRound\Problem 47 MyRound.cpp(29,20): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Problem 47 MyRound.vcxproj -> D:\source\Solutions2 1 to 50\Problem 47 MyRound\x64\Debug\Problem 47 MyRound.exe

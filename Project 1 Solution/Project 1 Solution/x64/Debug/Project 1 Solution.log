@@ -1,0 +1,4 @@
+﻿  Project 1 Solution.cpp
+  Project 1 Solution.vcxproj -> D:\source\Solutions2 1 to 50\Project 1 Solution\x64\Debug\Project 1 Solution.exe
+D:\source\Solutions2 1 to 50\Project 1 Solution\Project 1 Solution\Project 1 Solution.cpp(22): warning C26495: La variable 'stGameResult::Winner' n'est pas initialisée. Initialisez toujours une variable membre (type.6).
+D:\source\Solutions2 1 to 50\Project 1 Solution\Project 1 Solution\Project 1 Solution.cpp(31): warning C26495: La variable 'stRoudInfo::Winner' n'est pas initialisée. Initialisez toujours une variable membre (type.6).
